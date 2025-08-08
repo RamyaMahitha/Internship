@@ -1,0 +1,4 @@
+ Java File I/O 
+ Created a text-based notes manager with file read/write.
+ Used FileWriter to write notes to a file.
+ Use BufferedReader to read
